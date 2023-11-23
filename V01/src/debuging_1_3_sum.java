@@ -1,5 +1,3 @@
-package debuging_exercises;
-
 public class debuging_1_3_sum {
 	public static void main(String[] args) {
 		int[] A = { 16, 4, 2, 7, 11, 1};
